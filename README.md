@@ -9,3 +9,4 @@ The Simple Ordering System was developed using only Java programming language. T
     Can display total food item
     Auto calculate food ordered
     Manage labor list
+![image](https://github.com/user-attachments/assets/d22404ea-ef09-41c7-b0fb-8be2213fb4d7)
